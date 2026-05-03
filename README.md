@@ -21,6 +21,9 @@ Machine Learning, Deep Learning (CNN), Image Processing
 **Databases:**  
 SQL, MongoDB  
 
+**Core Concepts:**  
+Data Structures & Algorithms (DSA), OOPs, Operating Systems, Computer Networks
+
 **Tools:**  
 Git, GitHub, VS Code, Power BI, Tableau  
 
