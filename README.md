@@ -1,6 +1,7 @@
-# my-portfolio
+# 👩‍💻 Sakshi Pawar
+### 🚀 Software Developer | Java | Backend | Problem Solver
+
 Personal portfolio showcasing my projects in AI, Machine Learning, and Full-Stack Development including Forest Monitoring System, Scream Detection, and Android applications.
-#  Sakshi Pawar - Portfolio
 
 ##  About Me
 Hello, I am Sakshi Pawar, a Computer Engineering graduate specializing in Artificial Intelligence. I am a fast learner and problem solver with strong knowledge of Data Structures, Algorithms, and Software Development. I have hands-on experience in AI-based systems, full-stack applications, and real-world problem solving.
