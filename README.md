@@ -1,5 +1,5 @@
 # 👩‍💻 Sakshi Pawar
-### 🚀 Software Developer | Java | Backend | Problem Solver
+### 🚀 Software Developer | Java | Backend | Problem Solver.
 
 Personal portfolio showcasing my projects in AI, Machine Learning, and Full-Stack Development including Forest Monitoring System, Scream Detection, and Android applications.
 
