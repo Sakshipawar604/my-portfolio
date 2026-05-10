@@ -76,4 +76,4 @@ Git, GitHub, VS Code, Power BI, Tableau
 
 ---
 
- *Thank you for visiting my portfolio!*.
+ *Thank you for visiting my portfolio!*
